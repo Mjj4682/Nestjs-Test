@@ -2,7 +2,7 @@
 
 ## Description
 
-Nest Test
+Nestjs Test
 
 ## Installation
 
